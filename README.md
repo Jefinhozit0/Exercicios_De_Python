@@ -1,36 +1,41 @@
-Exercícios de Python
-Este repositório contém uma coleção de exercícios em Python desenvolvidos com o objetivo de praticar e reforçar conceitos fundamentais da linguagem.
+# 🐍 Exercícios de Python
 
-📁 Estrutura do Repositório
-Os arquivos estão nomeados de forma sequencial para facilitar a identificação:
+Este repositório contém exercícios práticos desenvolvidos em Python com o objetivo de reforçar a lógica de programação e o uso da linguagem.
 
-Exercicio1.py até Exercicio10.py: Cada arquivo contém um exercício individual abordando diferentes aspectos da programação em Python.
+## 📚 Objetivo
 
-🧠 Conteúdos Abordados
-Os exercícios cobrem uma variedade de tópicos, incluindo:
+Praticar fundamentos de Python por meio de pequenos desafios e problemas simples, voltados principalmente para iniciantes.
 
-Operações matemáticas básicas
+## 📁 Conteúdo
 
-Manipulação de strings
+* Operações matemáticas
+* Condições (`if`, `elif`, `else`)
+* Laços de repetição (`for`, `while`)
+* Manipulação de strings e listas
+* Entrada e saída de dados
+* Funções
 
-Estruturas condicionais (if, else, elif)
+## 🚀 Como usar
 
-Laços de repetição (for, while)
+1. Clone o repositório:
 
-Funções e escopo de variáveis
+   ```bash
+   git clone https://github.com/Jefinhozit0/Exercicios_De_Python
+   ```
 
-Listas e dicionários
+2. Acesse a pasta:
 
-Entrada e saída de dados
+   ```bash
+   cd Exercicios_De_Python
+   ```
 
-🚀 Como Executar os Exercícios
-Para executar os exercícios, certifique-se de ter o Python instalado em sua máquina. Em seguida, utilize o terminal ou prompt de comando:
+3. Execute o exercício desejado:
 
-python Exercicio1.py
-Substitua Exercicio1.py pelo nome do arquivo que deseja executar.
+   ```bash
+   python Exercicio1.py
+   ```
 
-🤝 Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, correções ou novos exercícios.
+## 🤝 Contribuições
 
-📄 Licença
-Este projeto está licenciado sob a MIT License.
+Sinta-se à vontade para abrir *issues* ou enviar *pull requests* com melhorias.
+
